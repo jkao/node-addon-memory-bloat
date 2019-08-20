@@ -1,0 +1,16 @@
+{
+  "name": "node-addon-mem-bloat",
+  "version": "0.0.1",
+  "description": "A demo of ObjectWrapper memory bloat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "node-addon-api": "^1.7.1",
+    "node-gyp": "^5.0.3"
+  }
+}
